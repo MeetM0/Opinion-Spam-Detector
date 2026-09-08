@@ -3,7 +3,7 @@ Fake reviews — whether AI-generated, incentivized, or bot-written — are a gr
 
 🚧 Actively in development. This README will be updated as each stage is completed.
 
-- [ ] Dataset exploration and preprocessing
+- [x] Dataset exploration and preprocessing
 - [ ] Baseline model (TF-IDF + Logistic Regression)
 - [ ] Transformer fine-tuning (DistilBERT via HuggingFace)
 - [ ] Evaluation (precision/recall/F1, confusion matrix)
